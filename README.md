@@ -1,11 +1,10 @@
-![Integrando seu projeto React com APIs](thumbnail.png)
 
-# Alfood
+# DCA-food
 
-O Alfood é um site que lista restaurantes e pratos do menu. 
+O  DCA-food é um site que lista restaurantes e pratos do menu. 
 É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
 
-<img src="screencapture.png" alt="Imagem do Alfood" width="50%">
+
 
 
 ## 🔨 Funcionalidades do projeto
